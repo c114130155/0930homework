@@ -77,6 +77,9 @@ console.log("hellow")
 
   符號 `[讀者看的label](網址)` 中括號裡面是給讀者看的提示,小括號裡面是網址
 
+- 顯示圖形
+ ！[](網址)
+
 - 醒目提示
 
   用反頓號 `` ` `` 放在兩邊
@@ -100,7 +103,8 @@ print("world")
 console.log("hello")
 ```
 
-
+## 範例
+![](https://docs.ionos.space/git-workflow.jpeg)
 
 
 
