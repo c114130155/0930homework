@@ -1,17 +1,22 @@
 # git筆記
-本reop時系git(一種版本控制)操作
+用來記錄上課交了什麼 做為平時考提出處的參考
+
+本reop用來熟悉git(一種版本控制)操作
+
+github修改
 
  -` git status`
 
- -  紅字代表他在工作區，還沒進追蹤區(staging)
- 綠字代表檔案在staging 受追蹤(tracking)也未受追蹤(untrcking)
+ - 紅字代表他在工作區，還沒進追蹤區(staging)也未受追蹤(untrcking)
+ - 綠字代表檔案在staging 受追蹤(tracking)
  - ` nothing to commit `代表三區同步 
 
- - `git add 檔案名稱 或 git add
+ - `git add` 檔案名稱 或 ` git add .`
+ - 建議只用`git add .`一點拜表示所有新增、刪除、修改的任意檔案
 
- - `git commit -m "更改訊息，提示程式員"
+ - `git commit -m "更改訊息，提示程式員"`
  
- - `git push
+ - `git push`
 
 ## 版本控制
 
