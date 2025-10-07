@@ -13,10 +13,11 @@
  
  - `git push
 
- 版本控制
+## 版本控制
 
- - `git branch 列出所有版本
- - `git branch v1  =>將目前的repo新增一個版本v1
+ - `git branch` 列出所有版本
+ - `git branch v1`  =>將目前的repo新增一個版本v1
+ - `git branh -d 名稱` =>刪除版本
  - `git checkout v1`切換版本v1
- - `git checkout main 切換到主版本main
+ - `git checkout main` 切換到主版本main
 
